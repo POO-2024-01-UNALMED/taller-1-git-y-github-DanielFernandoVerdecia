@@ -2,3 +2,7 @@ Nombre: Daniel Fernando Verdecia Goyeneche.
 Edad: 21 años.
 Aspiraciones con POO: Ampliar mis conocimientos de programación, lo que considero muy importante son los pryectos.
 Pude subir la carpeta archivo porque ahora no está vacía
+
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque pueden presentarse conflictos entre los dos archivos en ciertas partes del código
