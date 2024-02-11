@@ -1,0 +1,3 @@
+Nombre: Daniel Fernando Verdecia Goyeneche.
+Edad: 21 años.
+Aspiraciones con POO: Ampliar mis conocimientos de programación, lo que considero muy importante son los pryectos.
